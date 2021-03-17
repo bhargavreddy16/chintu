@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;    
+}
+body
+{
+    background-color: rgb(129, 194, 116);
+}
+#city
+{
+    box-sizing: border-box;
+    background: inherit;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    outline: none;
+    color: rgb(0, 102, 128);
+    font-family: 'bold italic',monospace;
+    font-weight: bold;
+    font-size: inherit;
+}
+#country,#result,#time
+{
+    font-weight: bold;
+    font-family: 'Monaco',monospace;
+    text-align: center;
+}
+table
+{
+    margin:auto;
+}
+ .foo
+{
+    font-family: 'Monteserrat',sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: indigo;
+    color: black;
+    text-align: center;
+}
